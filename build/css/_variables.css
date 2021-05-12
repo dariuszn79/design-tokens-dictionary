@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 May 2021 11:39:03 GMT
+ * Generated on Wed, 12 May 2021 11:43:03 GMT
  */
 
 :root {
@@ -390,7 +390,7 @@ css: $overlay_200
   --gradients-gradient-light-stops-1-color: rgba(0, 129, 138, 1);
   --gradients-gradient-light-opacity: 1;
   --grids-grid-xl-1920-1080-pattern: columns;
-  --grids-grid-xl-1920-1080-gutter-size: 21;
+  --grids-grid-xl-1920-1080-gutter-size: 32;
   --grids-grid-xl-1920-1080-alignment: stretch;
   --grids-grid-xl-1920-1080-count: 12;
   --grids-grid-xl-1920-1080-offset: 88;

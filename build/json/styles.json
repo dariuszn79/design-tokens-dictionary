@@ -335,7 +335,7 @@
   "GradientsGradientLightStops1Color": "rgba(0, 129, 138, 1)",
   "GradientsGradientLightOpacity": 1,
   "GridsGridXl19201080Pattern": "columns",
-  "GridsGridXl19201080GutterSize": 21,
+  "GridsGridXl19201080GutterSize": 32,
   "GridsGridXl19201080Alignment": "stretch",
   "GridsGridXl19201080Count": 12,
   "GridsGridXl19201080Offset": 88,

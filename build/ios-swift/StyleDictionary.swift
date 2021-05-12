@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:39:03 GMT
+// Generated on Wed, 12 May 2021 11:43:03 GMT
 //
 
 
@@ -250,7 +250,7 @@ public class StyleDictionary {
     public static let gridSingleSectionSize = 11
     public static let gridsGridXl19201080Alignment = stretch
     public static let gridsGridXl19201080Count = 12
-    public static let gridsGridXl19201080GutterSize = 21
+    public static let gridsGridXl19201080GutterSize = 32
     public static let gridsGridXl19201080Offset = 88
     public static let gridsGridXl19201080Pattern = columns
     public static let motionDissolveDuration = 0.45

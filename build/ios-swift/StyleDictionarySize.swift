@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:39:03 GMT
+// Generated on Wed, 12 May 2021 11:43:03 GMT
 //
 
 import UIKit
@@ -117,7 +117,7 @@ public enum StyleDictionarySize {
     public static let multiple6SectionSize = 8
     public static let multiple7SectionSize = 8
     public static let gridXl19201080Count = 12
-    public static let gridXl19201080GutterSize = 21
+    public static let gridXl19201080GutterSize = 32
     public static let gridXl19201080Offset = 88
     public static let singleCount = 5
     public static let singleGutterSize = 20

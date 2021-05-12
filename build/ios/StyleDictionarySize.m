@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:39:03 GMT
+// Generated on Wed, 12 May 2021 11:43:03 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -182,7 +182,7 @@ float const EffectBackgroundBlurRadius = 4;
 float const GradientsGradientLightStops0Position = 0.07;
 float const GradientsGradientLightStops1Position = 1;
 float const GradientsGradientLightOpacity = 1;
-float const GridsGridXl19201080GutterSize = 21;
+float const GridsGridXl19201080GutterSize = 32;
 float const GridsGridXl19201080Count = 12;
 float const GridsGridXl19201080Offset = 88;
 float const XlHeadingLgFontSize = 88;
