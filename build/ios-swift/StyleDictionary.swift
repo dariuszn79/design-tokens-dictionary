@@ -3,13 +3,15 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 12 May 2021 11:35:23 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let alertsAlertsConfirm = rgba(0, 161, 171, 1)
+    public static let alertsAlertsError = rgba(172, 24, 36, 1)
     public static let bodyExtraBoldCondensedItalicFontFamily = Akzidenz-Grotesk Pro
     public static let bodyExtraBoldCondensedItalicFontSize = 12
     public static let bodyExtraBoldCondensedItalicFontStretch = condensed
@@ -127,6 +129,11 @@ public class StyleDictionary {
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
+    public static let darkDark = rgba(0, 0, 0, 1)
+    public static let darkDarkTint100 = rgba(0, 5, 5, 0.9)
+    public static let darkDarkTint200 = rgba(0, 5, 5, 0.7)
+    public static let darkDarkTint400 = rgba(0, 5, 5, 0.16)
+    public static let darkDarkTint500 = rgba(0, 5, 5, 0.08)
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -189,6 +196,12 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let gradientsGradientLightGradientType = linear
+    public static let gradientsGradientLightOpacity = 1
+    public static let gradientsGradientLightStops0Color = rgba(0, 17, 18, 1)
+    public static let gradientsGradientLightStops0Position = 0.07
+    public static let gradientsGradientLightStops1Color = rgba(0, 129, 138, 1)
+    public static let gradientsGradientLightStops1Position = 1
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -235,6 +248,11 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+    public static let gridsGridXl19201080Alignment = stretch
+    public static let gridsGridXl19201080Count = 12
+    public static let gridsGridXl19201080GutterSize = 21
+    public static let gridsGridXl19201080Offset = 88
+    public static let gridsGridXl19201080Pattern = columns
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -265,6 +283,18 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
+    public static let neutralNeutral = rgba(255, 255, 255, 1)
+    public static let neutralNeutralTint100 = rgba(255, 255, 255, 0.5)
+    public static let neutralNeutralTint200 = rgba(255, 255, 255, 0.16)
+    public static let neutralNeutralTint300 = rgba(255, 255, 255, 0.08)
+    public static let neutralNeutralTint400 = rgba(255, 255, 255, 0.04)
+    public static let neutralNeutralTvsafe = rgba(235, 235, 235, 1)
+    public static let overlaysOverlay100 = rgba(0, 5, 5, 1)
+    public static let overlaysOverlay200 = rgba(0, 5, 5, 1)
+    public static let primaryPrimary100 = rgba(115, 240, 237, 1)
+    public static let primaryPrimary200 = rgba(0, 161, 171, 1)
+    public static let primaryPrimary300 = rgba(0, 129, 138, 1)
+    public static let primaryPrimary400 = rgba(0, 103, 110, 1)
     public static let radii5RadiiBottomLeft = 5
     public static let radii5RadiiBottomRight = 5
     public static let radii5RadiiTopLeft = 5
@@ -292,6 +322,9 @@ public class StyleDictionary {
     public static let radiiSmoothingRadius = 10
     public static let radiiSmoothingRadiusType = single
     public static let radiiSmoothingSmoothing = 0.75
+    public static let secondarySecondary100 = rgba(0, 44, 43, 1)
+    public static let secondarySecondary200 = rgba(0, 18, 17, 1)
+    public static let secondarySecondary300 = rgba(0, 5, 5, 1)
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60
@@ -311,4 +344,82 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
+    public static let tertiaryTertiary100 = rgba(10, 27, 27, 1)
+    public static let tertiaryTertiary200 = rgba(20, 37, 36, 1)
+    public static let tertiaryTertiary300 = rgba(41, 56, 55, 1)
+    public static let tertiaryTertiary400 = rgba(110, 120, 119, 1)
+    public static let tertiaryTertiary500 = rgba(145, 153, 153, 1)
+    public static let tertiaryTertiary600 = rgba(216, 216, 216, 1)
+    public static let xlHeadingLgFontFamily = NOW TV Text
+    public static let xlHeadingLgFontSize = 88
+    public static let xlHeadingLgFontStretch = normal
+    public static let xlHeadingLgFontStyle = normal
+    public static let xlHeadingLgFontStyleOld = Light
+    public static let xlHeadingLgFontWeight = 300
+    public static let xlHeadingLgLetterSpacing = 2
+    public static let xlHeadingLgLineHeight = 80
+    public static let xlHeadingLgParagraphIndent = 0
+    public static let xlHeadingLgParagraphSpacing = 0
+    public static let xlHeadingLgTextCase = uppercase
+    public static let xlHeadingLgTextDecoration = none
+    public static let xlHeadingMdFontFamily = NOW TV Text
+    public static let xlHeadingMdFontSize = 62
+    public static let xlHeadingMdFontStretch = normal
+    public static let xlHeadingMdFontStyle = normal
+    public static let xlHeadingMdFontStyleOld = Light
+    public static let xlHeadingMdFontWeight = 300
+    public static let xlHeadingMdLetterSpacing = 2
+    public static let xlHeadingMdLineHeight = 62
+    public static let xlHeadingMdParagraphIndent = 0
+    public static let xlHeadingMdParagraphSpacing = 0
+    public static let xlHeadingMdTextCase = uppercase
+    public static let xlHeadingMdTextDecoration = none
+    public static let xlHeadingSmFontFamily = NOW TV Text
+    public static let xlHeadingSmFontSize = 56
+    public static let xlHeadingSmFontStretch = normal
+    public static let xlHeadingSmFontStyle = normal
+    public static let xlHeadingSmFontStyleOld = Light
+    public static let xlHeadingSmFontWeight = 300
+    public static let xlHeadingSmLetterSpacing = 2
+    public static let xlHeadingSmLineHeight = 60
+    public static let xlHeadingSmParagraphIndent = 0
+    public static let xlHeadingSmParagraphSpacing = 0
+    public static let xlHeadingSmTextCase = uppercase
+    public static let xlHeadingSmTextDecoration = none
+    public static let xlParagraph1FontFamily = NOW TV Text
+    public static let xlParagraph1FontSize = 26
+    public static let xlParagraph1FontStretch = normal
+    public static let xlParagraph1FontStyle = normal
+    public static let xlParagraph1FontStyleOld = Regular
+    public static let xlParagraph1FontWeight = 400
+    public static let xlParagraph1LetterSpacing = 0
+    public static let xlParagraph1LineHeight = 40
+    public static let xlParagraph1ParagraphIndent = 0
+    public static let xlParagraph1ParagraphSpacing = 0
+    public static let xlParagraph1TextCase = none
+    public static let xlParagraph1TextDecoration = none
+    public static let xlParagraph2FontFamily = NOW TV Text
+    public static let xlParagraph2FontSize = 24
+    public static let xlParagraph2FontStretch = normal
+    public static let xlParagraph2FontStyle = normal
+    public static let xlParagraph2FontStyleOld = Regular
+    public static let xlParagraph2FontWeight = 400
+    public static let xlParagraph2LetterSpacing = 0
+    public static let xlParagraph2LineHeight = 32
+    public static let xlParagraph2ParagraphIndent = 0
+    public static let xlParagraph2ParagraphSpacing = 0
+    public static let xlParagraph2TextCase = none
+    public static let xlParagraph2TextDecoration = none
+    public static let xlSubheading1FontFamily = NOW TV Text
+    public static let xlSubheading1FontSize = 30
+    public static let xlSubheading1FontStretch = normal
+    public static let xlSubheading1FontStyle = normal
+    public static let xlSubheading1FontStyleOld = Regular
+    public static let xlSubheading1FontWeight = 400
+    public static let xlSubheading1LetterSpacing = 0
+    public static let xlSubheading1LineHeight = 40
+    public static let xlSubheading1ParagraphIndent = 0
+    public static let xlSubheading1ParagraphSpacing = 0
+    public static let xlSubheading1TextCase = none
+    public static let xlSubheading1TextDecoration = none
 }

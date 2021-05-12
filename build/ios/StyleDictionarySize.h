@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 12 May 2021 11:35:23 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -178,3 +178,45 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const GradientsGradientLightStops0Position;
+extern float const GradientsGradientLightStops1Position;
+extern float const GradientsGradientLightOpacity;
+extern float const GridsGridXl19201080GutterSize;
+extern float const GridsGridXl19201080Count;
+extern float const GridsGridXl19201080Offset;
+extern float const XlHeadingLgFontSize;
+extern float const XlHeadingLgFontWeight;
+extern float const XlHeadingLgLetterSpacing;
+extern float const XlHeadingLgLineHeight;
+extern float const XlHeadingLgParagraphIndent;
+extern float const XlHeadingLgParagraphSpacing;
+extern float const XlHeadingMdFontSize;
+extern float const XlHeadingMdFontWeight;
+extern float const XlHeadingMdLetterSpacing;
+extern float const XlHeadingMdLineHeight;
+extern float const XlHeadingMdParagraphIndent;
+extern float const XlHeadingMdParagraphSpacing;
+extern float const XlHeadingSmFontSize;
+extern float const XlHeadingSmFontWeight;
+extern float const XlHeadingSmLetterSpacing;
+extern float const XlHeadingSmLineHeight;
+extern float const XlHeadingSmParagraphIndent;
+extern float const XlHeadingSmParagraphSpacing;
+extern float const XlSubheading1FontSize;
+extern float const XlSubheading1FontWeight;
+extern float const XlSubheading1LetterSpacing;
+extern float const XlSubheading1LineHeight;
+extern float const XlSubheading1ParagraphIndent;
+extern float const XlSubheading1ParagraphSpacing;
+extern float const XlParagraph1FontSize;
+extern float const XlParagraph1FontWeight;
+extern float const XlParagraph1LetterSpacing;
+extern float const XlParagraph1LineHeight;
+extern float const XlParagraph1ParagraphIndent;
+extern float const XlParagraph1ParagraphSpacing;
+extern float const XlParagraph2FontSize;
+extern float const XlParagraph2FontWeight;
+extern float const XlParagraph2LetterSpacing;
+extern float const XlParagraph2LineHeight;
+extern float const XlParagraph2ParagraphIndent;
+extern float const XlParagraph2ParagraphSpacing;

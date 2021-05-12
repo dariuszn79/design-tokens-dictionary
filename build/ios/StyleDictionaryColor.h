@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 12 May 2021 11:35:23 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -34,7 +34,37 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+PrimaryPrimary100,
+PrimaryPrimary200,
+PrimaryPrimary300,
+PrimaryPrimary400,
+DarkDark,
+DarkDarkTint100,
+DarkDarkTint200,
+DarkDarkTint400,
+DarkDarkTint500,
+NeutralNeutralTvsafe,
+NeutralNeutral,
+NeutralNeutralTint100,
+NeutralNeutralTint200,
+NeutralNeutralTint300,
+NeutralNeutralTint400,
+SecondarySecondary100,
+SecondarySecondary200,
+SecondarySecondary300,
+TertiaryTertiary100,
+TertiaryTertiary200,
+TertiaryTertiary300,
+TertiaryTertiary400,
+TertiaryTertiary500,
+TertiaryTertiary600,
+AlertsAlertsError,
+AlertsAlertsConfirm,
+OverlaysOverlay100,
+OverlaysOverlay200,
+GradientsGradientLightStops0Color,
+GradientsGradientLightStops1Color
 };
 
 @interface StyleDictionaryColor : NSObject

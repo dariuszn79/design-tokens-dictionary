@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 12 May 2021 11:35:23 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,3 +179,45 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const GradientsGradientLightStops0Position = 0.07;
+float const GradientsGradientLightStops1Position = 1;
+float const GradientsGradientLightOpacity = 1;
+float const GridsGridXl19201080GutterSize = 21;
+float const GridsGridXl19201080Count = 12;
+float const GridsGridXl19201080Offset = 88;
+float const XlHeadingLgFontSize = 88;
+float const XlHeadingLgFontWeight = 300;
+float const XlHeadingLgLetterSpacing = 2;
+float const XlHeadingLgLineHeight = 80;
+float const XlHeadingLgParagraphIndent = 0;
+float const XlHeadingLgParagraphSpacing = 0;
+float const XlHeadingMdFontSize = 62;
+float const XlHeadingMdFontWeight = 300;
+float const XlHeadingMdLetterSpacing = 2;
+float const XlHeadingMdLineHeight = 62;
+float const XlHeadingMdParagraphIndent = 0;
+float const XlHeadingMdParagraphSpacing = 0;
+float const XlHeadingSmFontSize = 56;
+float const XlHeadingSmFontWeight = 300;
+float const XlHeadingSmLetterSpacing = 2;
+float const XlHeadingSmLineHeight = 60;
+float const XlHeadingSmParagraphIndent = 0;
+float const XlHeadingSmParagraphSpacing = 0;
+float const XlSubheading1FontSize = 30;
+float const XlSubheading1FontWeight = 400;
+float const XlSubheading1LetterSpacing = 0;
+float const XlSubheading1LineHeight = 40;
+float const XlSubheading1ParagraphIndent = 0;
+float const XlSubheading1ParagraphSpacing = 0;
+float const XlParagraph1FontSize = 26;
+float const XlParagraph1FontWeight = 400;
+float const XlParagraph1LetterSpacing = 0;
+float const XlParagraph1LineHeight = 40;
+float const XlParagraph1ParagraphIndent = 0;
+float const XlParagraph1ParagraphSpacing = 0;
+float const XlParagraph2FontSize = 24;
+float const XlParagraph2FontWeight = 400;
+float const XlParagraph2LetterSpacing = 0;
+float const XlParagraph2LineHeight = 32;
+float const XlParagraph2ParagraphIndent = 0;
+float const XlParagraph2ParagraphSpacing = 0;
