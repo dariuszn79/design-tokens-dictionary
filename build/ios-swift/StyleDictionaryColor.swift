@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 import UIKit
@@ -37,6 +37,26 @@ public enum StyleDictionaryColor {
     public static let multiple2Stops1Color = rgba(255, 255, 255, 1)
     public static let multiple3Stops0Color = rgba(74, 79, 204, 1)
     public static let multiple3Stops1Color = rgba(255, 255, 255, 1)
+    public static let gradientHeroShowcase0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroShowcase0Stops1Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroShowcase0Stops2Color = rgba(0, 18, 17, 0.29)
+    public static let gradientHeroShowcase0Stops3Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroShowcase1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroShowcase1Stops1Color = rgba(0, 18, 17, 0.65)
+    public static let gradientHeroShowcase1Stops2Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroShowpageStops0Color = rgba(1, 18, 17, 1)
+    public static let gradientHeroShowpageStops1Color = rgba(1, 18, 17, 1)
+    public static let gradientHeroTileheaderLrg0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderLrg0Stops1Color = rgba(0, 18, 17, 0.29)
+    public static let gradientHeroTileheaderLrg0Stops2Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderLrg1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderLrg1Stops1Color = rgba(0, 18, 17, 0.65)
+    public static let gradientHeroTileheaderLrg1Stops2Color = rgba(0, 18, 17, 0.23)
+    public static let gradientHeroTileheaderLrg1Stops3Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderSml0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderSml0Stops1Color = rgba(1, 18, 17, 1)
+    public static let gradientHeroTileheaderSml1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientHeroTileheaderSml1Stops1Color = rgba(0, 18, 17, 1)
     public static let gradientLightStops0Color = rgba(0, 17, 18, 1)
     public static let gradientLightStops1Color = rgba(0, 129, 138, 1)
     public static let singleWithMultipleColorStopsStops0Color = rgba(255, 184, 0, 1)

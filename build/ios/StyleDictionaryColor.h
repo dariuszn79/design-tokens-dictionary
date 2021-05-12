@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -64,7 +64,27 @@ AlertsAlertsConfirm,
 OverlaysOverlay100,
 OverlaysOverlay200,
 GradientsGradientLightStops0Color,
-GradientsGradientLightStops1Color
+GradientsGradientLightStops1Color,
+GradientsGradientHeroShowpageStops0Color,
+GradientsGradientHeroShowpageStops1Color,
+GradientsGradientHeroTileheaderSml0Stops0Color,
+GradientsGradientHeroTileheaderSml0Stops1Color,
+GradientsGradientHeroTileheaderSml1Stops0Color,
+GradientsGradientHeroTileheaderSml1Stops1Color,
+GradientsGradientHeroTileheaderLrg0Stops0Color,
+GradientsGradientHeroTileheaderLrg0Stops1Color,
+GradientsGradientHeroTileheaderLrg0Stops2Color,
+GradientsGradientHeroTileheaderLrg1Stops0Color,
+GradientsGradientHeroTileheaderLrg1Stops1Color,
+GradientsGradientHeroTileheaderLrg1Stops2Color,
+GradientsGradientHeroTileheaderLrg1Stops3Color,
+GradientsGradientHeroShowcase0Stops0Color,
+GradientsGradientHeroShowcase0Stops1Color,
+GradientsGradientHeroShowcase0Stops2Color,
+GradientsGradientHeroShowcase0Stops3Color,
+GradientsGradientHeroShowcase1Stops0Color,
+GradientsGradientHeroShowcase1Stops1Color,
+GradientsGradientHeroShowcase1Stops2Color
 };
 
 @interface StyleDictionaryColor : NSObject

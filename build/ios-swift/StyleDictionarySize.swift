@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 import UIKit
@@ -82,6 +82,33 @@ public enum StyleDictionarySize {
     public static let multiple3Opacity = 1
     public static let multiple3Stops0Position = 0
     public static let multiple3Stops1Position = 1
+    public static let gradientHeroShowcase0Opacity = 1
+    public static let gradientHeroShowcase0Stops0Position = 0
+    public static let gradientHeroShowcase0Stops1Position = 0
+    public static let gradientHeroShowcase0Stops2Position = 0.22
+    public static let gradientHeroShowcase0Stops3Position = 0.57
+    public static let gradientHeroShowcase1Opacity = 1
+    public static let gradientHeroShowcase1Stops0Position = 0.41
+    public static let gradientHeroShowcase1Stops1Position = 0.59
+    public static let gradientHeroShowcase1Stops2Position = 0.99
+    public static let gradientHeroShowpageOpacity = 0.85
+    public static let gradientHeroShowpageStops0Position = 0
+    public static let gradientHeroShowpageStops1Position = 1
+    public static let gradientHeroTileheaderLrg0Opacity = 1
+    public static let gradientHeroTileheaderLrg0Stops0Position = 0
+    public static let gradientHeroTileheaderLrg0Stops1Position = 0.06
+    public static let gradientHeroTileheaderLrg0Stops2Position = 0.21
+    public static let gradientHeroTileheaderLrg1Opacity = 1
+    public static let gradientHeroTileheaderLrg1Stops0Position = 0.55
+    public static let gradientHeroTileheaderLrg1Stops1Position = 0.71
+    public static let gradientHeroTileheaderLrg1Stops2Position = 0.9
+    public static let gradientHeroTileheaderLrg1Stops3Position = 1
+    public static let gradientHeroTileheaderSml0Opacity = 1
+    public static let gradientHeroTileheaderSml0Stops0Position = 0
+    public static let gradientHeroTileheaderSml0Stops1Position = 0.21
+    public static let gradientHeroTileheaderSml1Opacity = 1
+    public static let gradientHeroTileheaderSml1Stops0Position = 0.78
+    public static let gradientHeroTileheaderSml1Stops1Position = 1
     public static let gradientLightOpacity = 1
     public static let gradientLightStops0Position = 0.07
     public static let gradientLightStops1Position = 1

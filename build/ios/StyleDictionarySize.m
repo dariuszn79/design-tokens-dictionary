@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -182,6 +182,33 @@ float const EffectBackgroundBlurRadius = 4;
 float const GradientsGradientLightStops0Position = 0.07;
 float const GradientsGradientLightStops1Position = 1;
 float const GradientsGradientLightOpacity = 1;
+float const GradientsGradientHeroShowpageStops0Position = 0;
+float const GradientsGradientHeroShowpageStops1Position = 1;
+float const GradientsGradientHeroShowpageOpacity = 0.85;
+float const GradientsGradientHeroTileheaderSml0Stops0Position = 0;
+float const GradientsGradientHeroTileheaderSml0Stops1Position = 0.21;
+float const GradientsGradientHeroTileheaderSml0Opacity = 1;
+float const GradientsGradientHeroTileheaderSml1Stops0Position = 0.78;
+float const GradientsGradientHeroTileheaderSml1Stops1Position = 1;
+float const GradientsGradientHeroTileheaderSml1Opacity = 1;
+float const GradientsGradientHeroTileheaderLrg0Stops0Position = 0;
+float const GradientsGradientHeroTileheaderLrg0Stops1Position = 0.06;
+float const GradientsGradientHeroTileheaderLrg0Stops2Position = 0.21;
+float const GradientsGradientHeroTileheaderLrg0Opacity = 1;
+float const GradientsGradientHeroTileheaderLrg1Stops0Position = 0.55;
+float const GradientsGradientHeroTileheaderLrg1Stops1Position = 0.71;
+float const GradientsGradientHeroTileheaderLrg1Stops2Position = 0.9;
+float const GradientsGradientHeroTileheaderLrg1Stops3Position = 1;
+float const GradientsGradientHeroTileheaderLrg1Opacity = 1;
+float const GradientsGradientHeroShowcase0Stops0Position = 0;
+float const GradientsGradientHeroShowcase0Stops1Position = 0;
+float const GradientsGradientHeroShowcase0Stops2Position = 0.22;
+float const GradientsGradientHeroShowcase0Stops3Position = 0.57;
+float const GradientsGradientHeroShowcase0Opacity = 1;
+float const GradientsGradientHeroShowcase1Stops0Position = 0.41;
+float const GradientsGradientHeroShowcase1Stops1Position = 0.59;
+float const GradientsGradientHeroShowcase1Stops2Position = 0.99;
+float const GradientsGradientHeroShowcase1Opacity = 1;
 float const GridsGridXl19201080GutterSize = 32;
 float const GridsGridXl19201080Count = 12;
 float const GridsGridXl19201080Offset = 88;

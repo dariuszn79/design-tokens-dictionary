@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 
@@ -196,6 +196,60 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let gradientsGradientHeroShowcase0GradientType = linear
+    public static let gradientsGradientHeroShowcase0Opacity = 1
+    public static let gradientsGradientHeroShowcase0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroShowcase0Stops0Position = 0
+    public static let gradientsGradientHeroShowcase0Stops1Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroShowcase0Stops1Position = 0
+    public static let gradientsGradientHeroShowcase0Stops2Color = rgba(0, 18, 17, 0.29)
+    public static let gradientsGradientHeroShowcase0Stops2Position = 0.22
+    public static let gradientsGradientHeroShowcase0Stops3Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroShowcase0Stops3Position = 0.57
+    public static let gradientsGradientHeroShowcase1GradientType = linear
+    public static let gradientsGradientHeroShowcase1Opacity = 1
+    public static let gradientsGradientHeroShowcase1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroShowcase1Stops0Position = 0.41
+    public static let gradientsGradientHeroShowcase1Stops1Color = rgba(0, 18, 17, 0.65)
+    public static let gradientsGradientHeroShowcase1Stops1Position = 0.59
+    public static let gradientsGradientHeroShowcase1Stops2Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroShowcase1Stops2Position = 0.99
+    public static let gradientsGradientHeroShowpageGradientType = linear
+    public static let gradientsGradientHeroShowpageOpacity = 0.85
+    public static let gradientsGradientHeroShowpageStops0Color = rgba(1, 18, 17, 1)
+    public static let gradientsGradientHeroShowpageStops0Position = 0
+    public static let gradientsGradientHeroShowpageStops1Color = rgba(1, 18, 17, 1)
+    public static let gradientsGradientHeroShowpageStops1Position = 1
+    public static let gradientsGradientHeroTileheaderLrg0GradientType = linear
+    public static let gradientsGradientHeroTileheaderLrg0Opacity = 1
+    public static let gradientsGradientHeroTileheaderLrg0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderLrg0Stops0Position = 0
+    public static let gradientsGradientHeroTileheaderLrg0Stops1Color = rgba(0, 18, 17, 0.29)
+    public static let gradientsGradientHeroTileheaderLrg0Stops1Position = 0.06
+    public static let gradientsGradientHeroTileheaderLrg0Stops2Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderLrg0Stops2Position = 0.21
+    public static let gradientsGradientHeroTileheaderLrg1GradientType = linear
+    public static let gradientsGradientHeroTileheaderLrg1Opacity = 1
+    public static let gradientsGradientHeroTileheaderLrg1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderLrg1Stops0Position = 0.55
+    public static let gradientsGradientHeroTileheaderLrg1Stops1Color = rgba(0, 18, 17, 0.65)
+    public static let gradientsGradientHeroTileheaderLrg1Stops1Position = 0.71
+    public static let gradientsGradientHeroTileheaderLrg1Stops2Color = rgba(0, 18, 17, 0.23)
+    public static let gradientsGradientHeroTileheaderLrg1Stops2Position = 0.9
+    public static let gradientsGradientHeroTileheaderLrg1Stops3Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderLrg1Stops3Position = 1
+    public static let gradientsGradientHeroTileheaderSml0GradientType = linear
+    public static let gradientsGradientHeroTileheaderSml0Opacity = 1
+    public static let gradientsGradientHeroTileheaderSml0Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderSml0Stops0Position = 0
+    public static let gradientsGradientHeroTileheaderSml0Stops1Color = rgba(1, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderSml0Stops1Position = 0.21
+    public static let gradientsGradientHeroTileheaderSml1GradientType = linear
+    public static let gradientsGradientHeroTileheaderSml1Opacity = 1
+    public static let gradientsGradientHeroTileheaderSml1Stops0Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderSml1Stops0Position = 0.78
+    public static let gradientsGradientHeroTileheaderSml1Stops1Color = rgba(0, 18, 17, 1)
+    public static let gradientsGradientHeroTileheaderSml1Stops1Position = 1
     public static let gradientsGradientLightGradientType = linear
     public static let gradientsGradientLightOpacity = 1
     public static let gradientsGradientLightStops0Color = rgba(0, 17, 18, 1)

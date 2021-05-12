@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:43:03 GMT
+// Generated on Wed, 12 May 2021 12:32:30 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -181,6 +181,33 @@ extern float const EffectBackgroundBlurRadius;
 extern float const GradientsGradientLightStops0Position;
 extern float const GradientsGradientLightStops1Position;
 extern float const GradientsGradientLightOpacity;
+extern float const GradientsGradientHeroShowpageStops0Position;
+extern float const GradientsGradientHeroShowpageStops1Position;
+extern float const GradientsGradientHeroShowpageOpacity;
+extern float const GradientsGradientHeroTileheaderSml0Stops0Position;
+extern float const GradientsGradientHeroTileheaderSml0Stops1Position;
+extern float const GradientsGradientHeroTileheaderSml0Opacity;
+extern float const GradientsGradientHeroTileheaderSml1Stops0Position;
+extern float const GradientsGradientHeroTileheaderSml1Stops1Position;
+extern float const GradientsGradientHeroTileheaderSml1Opacity;
+extern float const GradientsGradientHeroTileheaderLrg0Stops0Position;
+extern float const GradientsGradientHeroTileheaderLrg0Stops1Position;
+extern float const GradientsGradientHeroTileheaderLrg0Stops2Position;
+extern float const GradientsGradientHeroTileheaderLrg0Opacity;
+extern float const GradientsGradientHeroTileheaderLrg1Stops0Position;
+extern float const GradientsGradientHeroTileheaderLrg1Stops1Position;
+extern float const GradientsGradientHeroTileheaderLrg1Stops2Position;
+extern float const GradientsGradientHeroTileheaderLrg1Stops3Position;
+extern float const GradientsGradientHeroTileheaderLrg1Opacity;
+extern float const GradientsGradientHeroShowcase0Stops0Position;
+extern float const GradientsGradientHeroShowcase0Stops1Position;
+extern float const GradientsGradientHeroShowcase0Stops2Position;
+extern float const GradientsGradientHeroShowcase0Stops3Position;
+extern float const GradientsGradientHeroShowcase0Opacity;
+extern float const GradientsGradientHeroShowcase1Stops0Position;
+extern float const GradientsGradientHeroShowcase1Stops1Position;
+extern float const GradientsGradientHeroShowcase1Stops2Position;
+extern float const GradientsGradientHeroShowcase1Opacity;
 extern float const GridsGridXl19201080GutterSize;
 extern float const GridsGridXl19201080Count;
 extern float const GridsGridXl19201080Offset;
