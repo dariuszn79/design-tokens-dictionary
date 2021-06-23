@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Wed, 23 Jun 2021 12:48:18 GMT
+// Generated on Wed, 23 Jun 2021 12:49:25 GMT
 //
 
 #import <Foundation/Foundation.h>
